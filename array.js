@@ -1,3 +1,8 @@
+/**
+ * This function takes an array sorts it using descending sort returns the first element which is the largest element in the Array
+ * @param {*} arr 
+ * @returns the largest number
+ */
 function array_largest(arr){
     var temp=0;
     for(let i=0;i<arr.length;i++){
