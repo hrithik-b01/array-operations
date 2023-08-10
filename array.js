@@ -1,5 +1,5 @@
 /**
- * 
+ * This function takes an array as an argument and sorts it using quicksort algorithm.
  * @param {  array of numbers} arr 
  * @returns sorted array
  */
