@@ -1,3 +1,8 @@
+/**
+ * 
+ * @param {  array of numbers} arr 
+ * @returns sorted array
+ */
 function quickSort(arr) {
     if (arr.length <= 1) {
         return arr; // Base case: Array with 0 or 1 element is already sorted
