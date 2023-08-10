@@ -1,5 +1,11 @@
  
 //Rest parameter
+/**
+ * This function generates an Array of 100 elements from 0 - 100
+ * The user will be asked to enter a number that will be compared with the sum of sequence of array elements
+ * User will also have an option on selecting number of sequence of array elements whose sum will be compared with the number
+ * Only two options are available, 2 and 3
+ */
 const arrayComp=()=>
 {
     let array=[];
